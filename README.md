@@ -10,6 +10,6 @@ npm run dev on console (back-end)
 
 
 -----------------------------------------------------------------------
-Hosted at http://cs160bankingapp.herokuapp.com
+Hosted at: http://cs160bankingapp.herokuapp.com
 
 Demo of Application: https://youtu.be/jxFgFF0vT64
