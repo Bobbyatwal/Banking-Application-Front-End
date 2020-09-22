@@ -1,5 +1,6 @@
-# Banking Application Front-End
+# Developed with Full Stack Development tools: React JS, PostgreSQL, Node JS, Javascript, HTML5, CSS3, Express JS, Heroku, Github, and Selenium.
 
+----------------------------------------------------------------------------------------
 To run on your machine locally: 
 
 Save dependencies: npm install --save
