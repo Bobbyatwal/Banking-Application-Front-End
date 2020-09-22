@@ -1,4 +1,4 @@
-# Banking-Application-Front-End
+# Banking Application Front-End
 
 To run on your machine locally: 
 
